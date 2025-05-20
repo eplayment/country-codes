@@ -1,5 +1,5 @@
 {
-    "name": "laravel-validation-rules/country-codes",
+    "name": "eplayment/country-codes",
     "description": "Validate country codes.",
     "type": "library",
     "keywords": [
